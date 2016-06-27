@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#python binary files and ipython noteboks
+*.pyc
+*.pyx
+.ipynb_checkpoints
