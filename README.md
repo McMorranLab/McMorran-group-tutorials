@@ -1,3 +1,5 @@
+# Getting started
+
 **Installing python**
 
 The majority of the people in the McMorran group are currently using python 2.7, this is for a number of reasons but mostly because many of the scientific tools and libraries have not been updated to python 3.
@@ -19,4 +21,29 @@ There are a number of good resources for learning how to use python for scientif
 This is meant to put things in context, but the reader should know that a huge part of being a successful programmer is having the ability to quickly find answers to a coding problem.
 Often someone else has already asked the same question or part of the same question and all you need to do is find that information on google usually on a stack exchange post.
 
-**Using python**
+# Using python
+Everyone in the group uses python differently but here is how I ([Jordan Chess](https://github.com/jordanchess)) do things.
+
+
+*Rules/guidelines I try to follow*
+
+1. Assume every line of code you write has an error.
+    * Test things as often as you can. *This is where Jupyter notebooks come in handy.*
+    * If you are confused about what your code is doing print or plot everything.
+2. Just because your code ran doesn't mean your code is running correctly.
+    * Always test your code on something you know the answer to.
+3. Follow PEP8 guidelines
+    * If your code is poorly formatted no one can read it not even your future self.
+4. Comment, comment, comment.
+    * I need to be better at this but if you don't comment your code it is much harder to read and understand which can cause big problems in the future if you have a bug or want to add functionality.
+5. Don't optimize until after it is working.
+
+*My general workflow*
+
+1. Develop tools in a Jupyter notebook
+2. Transfer those tools to a .py file
+3. Upload that to github
+4. Optimize that tool if needed generally just using python in the command line or sometimes in Spyder.
+5. Use those tools on data or for simulations
+
+# Tutorials  
