@@ -47,3 +47,4 @@ Everyone in the group uses python differently but here is how I ([Jordan Chess](
 5. Use those tools on data or for simulations
 
 # Tutorials  
+1. [Basic numpy functions and plotting](https://github.com/jordanchess/McMorran-group-tutorials/blob/master/Notebooks/Basic%20numpy%20functions%20and%20plotting.ipynb)
