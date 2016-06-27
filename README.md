@@ -2,7 +2,7 @@
 
 The majority of the people in the McMorran group are currently using python 2.7, this is for a number of reasons but mostly because many of the scientific tools and libraries have not been updated to python 3.
 This reason is becoming increasingly less true and we may want to switch to python 3 in the nearish future.
-Our group generally uses the anaconda distribution of python.
+Our group generally uses the [anaconda](https://www.continuum.io/downloads) distribution of python.
 To install just visit the page at the link and follow the directions.
 It comes with many of the additional packages that are needed to do scientific programing and can help you get off the ground and started more quickly.
 If you don’t like this batteries included approach feel free to download python and install individual packages as you need them.
