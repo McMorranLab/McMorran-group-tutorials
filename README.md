@@ -3,7 +3,7 @@
 **Installing python**
 
 The majority of the people in the McMorran group are currently using python 2.7, this is for a number of reasons but mostly because many of the scientific tools and libraries have not been updated to python 3.
-This reason is becoming increasingly less true and we may want to switch to python 3 in the nearish future.
+This reason is becoming increasingly less true and we may want to switch to python 3 in the near-ish future.
 Our group generally uses the [anaconda](https://www.continuum.io/downloads) distribution of python.
 To install just visit the page at the link and follow the directions.
 It comes with many of the additional packages that are needed to do scientific programing and can help you get off the ground and started more quickly.
@@ -11,7 +11,7 @@ If you don’t like this batteries included approach feel free to download pytho
 
 **Learning python**
 
-There are two major parts of learning how to use python for scientific projects.
+There are two major parts to learning how to use python for scientific projects.
 First, learning the syntax (how to perform a loop, read/write files etc.) and second learning how to convert equations and scientific models into that syntax.
 I found that the best way for me to learn the language (syntax) was to use it.
 The best resource I have found to guide me through that process is Learn Python the Hard Way.
