@@ -48,3 +48,4 @@ Everyone in the group uses python differently but here is how I ([Jordan Chess](
 
 # Tutorials  
 1. [Basic numpy functions and plotting](https://github.com/jordanchess/McMorran-group-tutorials/blob/master/Notebooks/Basic%20numpy%20functions%20and%20plotting.ipynb)
+2. [A skills test](https://github.com/McMorranLab/McMorran-group-tutorials/blob/master/Notebooks/Skills%20test.ipynb)
