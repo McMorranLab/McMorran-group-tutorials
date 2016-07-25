@@ -46,6 +46,9 @@ Everyone in the group uses python differently but here is how I ([Jordan Chess](
 4. Optimize that tool if needed generally just using python in the command line or sometimes in Spyder.
 5. Use those tools on data or for simulations
 
-# Tutorials  
+# Tutorials
 1. [Basic numpy functions and plotting](https://github.com/jordanchess/McMorran-group-tutorials/blob/master/Notebooks/Basic%20numpy%20functions%20and%20plotting.ipynb)
 2. [A skills test](https://github.com/McMorranLab/McMorran-group-tutorials/blob/master/Notebooks/Skills%20test.ipynb)
+3. [A cool site explaning the Fourier transform (DFT)](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+4. [A more mathematical explanation](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf)
+5. [Fourier transform Homework and Visualization notebook](https://github.com/McMorranLab/McMorran-group-tutorials/blob/master/Notebooks/FFT.ipynb)
