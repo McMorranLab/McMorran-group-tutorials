@@ -49,8 +49,9 @@ Everyone in the group uses python differently but here is how I ([Jordan Chess](
 # Tutorials
 1. [Basic numpy functions and plotting](https://github.com/jordanchess/McMorran-group-tutorials/blob/master/Notebooks/Basic%20numpy%20functions%20and%20plotting.ipynb)
 2. Introduction to Python in the McMorran Lab Course
-    \\I. [Week 1](https://github.com/McMorranLab/McMorran-group-tutorials/blob/master/Notebooks/170618_python_primer.ipynb)
-    \\II. [Week 2](https://github.com/McMorranLab/McMorran-group-tutorials/blob/master/Notebooks/170626_python_primer_week_2.ipynb)
+    
+    I. [Week 1](https://github.com/McMorranLab/McMorran-group-tutorials/blob/master/Notebooks/170618_python_primer.ipynb)
+    II. [Week 2](https://github.com/McMorranLab/McMorran-group-tutorials/blob/master/Notebooks/170626_python_primer_week_2.ipynb)
 3. [A skills test](https://github.com/McMorranLab/McMorran-group-tutorials/blob/master/Notebooks/Skills%20test.ipynb)
 4. [A cool site explaining the Fourier transform (DFT)](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 5. [A more mathematical explanation](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf)
