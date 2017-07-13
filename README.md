@@ -32,7 +32,7 @@ Everyone in the group uses python differently but here is how I ([Jordan Chess](
     * If you are confused about what your code is doing print or plot everything.
 2. Just because your code ran doesn't mean your code is running correctly.
     * Always test your code on something you know the answer to.
-3. Follow PEP8 guidelines
+3. Follow [PEP8 guidelines](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)
     * If your code is poorly formatted no one can read it not even your future self.
 4. Comment, comment, comment.
     * I need to be better at this but if you don't comment your code it is much harder to read and understand which can cause big problems in the future if you have a bug or want to add functionality.
